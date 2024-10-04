@@ -25,22 +25,18 @@ The Sales Dashboard provides key data points for 2021-2022, including:
 
 ## 🖼️ Dashboard Screenshots
 
-To add images to your README, you can use any of these methods:
+### Main Dashboard View
 
-```markdown
 ![Dashboard Overview](./dashboard.png)
-```
 
-```markdown
-![Dashboard Overview](./input.png)
-```
+### Data Input Interface
 
-```markdown
-![Dashboard Overview](./contacts.png)
-```
+![Input Interface](./input.png)
+
+### Contact Information
+
+![Contacts Page](./contacts.png)
 
 ## 📝 Acknowledgment
 
 This dashboard was created as a practice exercise, inspired by a tutorial from Kenji Explains ([Tutorial Link](https://www.youtube.com/watch?v=jeYjtEX3RAE)). This is my first dashboard project, developed as a learning experience in data visualization and dashboard creation.
-
-
