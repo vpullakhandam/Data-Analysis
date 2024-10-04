@@ -23,13 +23,13 @@ The Sales Dashboard provides key data points for 2021-2022, including:
 | Profit Completion (%) | 89%     |
 | Customer Satisfaction | 87%     |
 
-## 🖼️ Dashboard Screenshots
+## 🖼️ Screenshots
 
 ### Main Dashboard View
 
 ![Dashboard Overview](./dashboard.png)
 
-### Data Input Interface
+### Data Input Information
 
 ![Input Interface](./input.png)
 
