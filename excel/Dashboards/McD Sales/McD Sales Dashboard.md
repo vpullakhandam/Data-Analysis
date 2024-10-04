@@ -37,6 +37,10 @@ The Sales Dashboard provides key data points for 2021-2022, including:
 
 ![Contacts Page](./contacts.png)
 
+## 💻 Technical Details
+
+- Built using Microsoft Excel
+
 ## 📝 Acknowledgment
 
 This dashboard was created as a practice exercise, inspired by a tutorial from Kenji Explains ([Tutorial Link](https://www.youtube.com/watch?v=jeYjtEX3RAE)). This is my first dashboard project, developed as a learning experience in data visualization and dashboard creation.

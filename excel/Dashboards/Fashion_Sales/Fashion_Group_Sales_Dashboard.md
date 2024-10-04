@@ -29,7 +29,7 @@ A comprehensive sales analytics dashboard for Big Fashion Group's retail chains 
 2. **Line Graph**: Sales trends by chain over time
 3. **Australian Map**: Geographic sales distribution
 4. **Bar Charts**:
-   - Sales by category (Womens being the largest category)
+   - Sales by category 
    - Manager-wise sales performance by state
 
 ## 🗺️ Geographic Coverage
