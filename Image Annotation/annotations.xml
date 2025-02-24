@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2154009</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-24 06:59:25.834306+00:00</created>
+      <updated>2025-02-24 07:08:54.684283+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2156446</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/2154009</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>vaishnavi73</username>
+        <email>vaishnavipullakhandam@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Queen</name>
+          <color>#80765d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Bishop</name>
+          <color>#fdd8e4</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Rook</name>
+          <color>#b3ed40</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Knight</name>
+          <color>#f304d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pawn</name>
+          <color>#83e070</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-24 07:09:09.772386+00:00</dumped>
+  </meta>
+  <image id="0" name="00000003_resized.jpg" width="224" height="224">
+    <box label="Knight" source="manual" occluded="0" xtl="51.14" ytl="20.53" xbr="187.69" ybr="187.69" z_order="0">
+    </box>
+  </image>
+</annotations>
